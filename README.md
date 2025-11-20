@@ -1,6 +1,6 @@
 # Anomaly Detection Approach for LOS/NLOS
 
-Identification in 5G Systems
+Identification in 5G Systems, will be updated when the paper will be accepted
 
 ## Requirements
 
